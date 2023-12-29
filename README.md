@@ -9,13 +9,13 @@
 - using
   - SQL, Tableau
   - Python, pandas, scikit-learn, ydata-profiling, PySpark
-  - AWS SageMaker, AutoML, No Code ML
+  - AWS SageMaker, AutoML, No-Code ML
   - Optimization Methods
 - generating
   - Visualizations, Ad-hoc Reports
   - User Flow Diagrams
 - applying
-  - Data Quality re Data Governance
+  - Data Quality Rules wrt Data Governance
   - Data Vault and Dimensional Modeling
   - Feature Engineering
 - learning
@@ -27,10 +27,10 @@
 
 ## I've been
 - using
-  - genAI tools like ChatGPT from OpenAI and Bart from Google and Notion
+  - genAI tools like ChatGPT from OpenAI, Bart from Google and Notion
 - learning
-  - Quantum Information
   - Geospatial Data Science
+  - Quantum Information and Computing
   - Reinforcement Learning, TensorFlow
   - Neural Networks, Deep Learning, Hyperparameter Tuning, Regularization, Optimization
   - Valuation and Financial Analysis for Startups
@@ -46,12 +46,12 @@
 - courses on
   - Machine Learning
     - Neural Networks and Deep Learning, Reinforcement Learning in Finance
-    - Practical Decision Making Using No-code ML on AWS, Using TensorFlow with Amazon Sagemaker
+    - Practical Decision Making Using No-Code ML on AWS, Using TensorFlow with Amazon Sagemaker
     - Spatial Data Science
   - Databases and BI tools
     - Data Quality, Data Vault 2.0, Neo4j
     - Tableau Desktop
-  - Business and Frameworks
+  - Businesses and Frameworks
     - Project Management Professional
     - Professional Skills
     - Scrum, Six Sigma and Design Thinking
@@ -61,7 +61,8 @@
     - NI LabVIEW Basics and CompactRIO
 - hackathons
   - IBM Quantum Challenge Fall 2022 - Advanced Achievement
-  - OpenAI
+  - OpenAI Hackathon for Climate Change
+  - kaggle
 - countless seminars on
   - Project Management, Risk Management, CMMI, Sustainability
   - InfoSec, AppSec, CyberSec, High Performance Computing, TR-Grid and Tools
@@ -73,6 +74,8 @@
  - worked at
    - CERN in Switzerland as ATLAS TDAQ SysAdmin
    - Institute of Accelerator Technologies in Turkey as Scientific Project Expert
+ - volunteered at
+   - biggest tech events in the Baltics; Latitude59 and sTARTUp Day
  - member of
    - Project Management Association, Ankara
    - PMI-TR, Istanbul: A local chapter of Project Management Institute (PMI)
@@ -86,10 +89,10 @@
  - earned my first pocket money to attend a paid seminar by writing an inventory management software for a local warehouse
 
 
-## My relation with universities are
+## I have
 - Master's degree in High Energy Physics from Dumlupinar Uni.
 - Bachelor's degree in Physics from Dumlupinar Uni.
-- took lessons from PhD programs (but couldn't manage to finish)
+- taken lessons from PhD programs (but couldn't manage to finish)
   - Digital Signal Processors, Linear Control Systems from Yildiz Technical Uni.
   - Optoelectronics from Ankara Uni.
 
@@ -103,3 +106,9 @@
 - "Usage of LabVIEW for Turkish Accelerator Center, Infrared Free Electron Laser" at 5th TAC Workshop
 - "Production of ttbar at CERN, LHC Experiment with PYTHIA and CompHEP" at 3rd Workshop on Nuclear Structure Properties
 - "PYTHIA and CompHEP: High Energy Physics Simulation Programs" at 4th Int'l Student Conferance of the Balkan Physical Union
+
+
+## and I'm interested in
+- reading technology trend reports, predictions, outlook and annual reports of tech startups and venture capital firms
+- listening to non-fiction audiobooks and podcasts on investment, businesses and startup ideas
+- watching fiction movies and serials, for some of them, multiple times!
