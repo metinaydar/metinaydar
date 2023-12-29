@@ -42,27 +42,63 @@
   - Robotics, Flight Mechanics, Interplanetary Missions
 
 
- ## Had the privilage of being
+## I attended
+- courses on
+  - Machine Learning
+    - Neural Networks and Deep Learning, Reinforcement Learning in Finance
+    - Practical Decision Making Using No-code ML on AWS, Using TensorFlow with Amazon Sagemaker
+    - Spatial Data Science
+  - Databases and BI tools
+    - Data Quality, Data Vault 2.0, Neo4j
+    - Tableau Desktop
+  - Business and Frameworks
+    - Project Management Professional
+    - Professional Skills
+    - Scrum, Six Sigma and Design Thinking
+    - Intalio Business Process Management System
+  - Physics and Electronics
+    - CERN School of Computing, Software Development, Parallel Computing
+    - NI LabVIEW Basics and CompactRIO
+- hackathons
+  - IBM Quantum Challenge Fall 2022 - Advanced Achievement
+  - OpenAI
+- countless seminars on
+  - Project Management, Risk Management, CMMI, Sustainability
+  - InfoSec, AppSec, CyberSec, High Performance Computing, TR-Grid and Tools
+  - TAC Technical Design And Test Facility
+  - TR-ATLAS Tier-2 Grid Deployment, CMS/ ATLAS Computing and Analysis
+
+
+ ## I had the privilage of being
  - worked at
    - CERN in Switzerland as ATLAS TDAQ SysAdmin
    - Institute of Accelerator Technologies in Turkey as Scientific Project Expert
- - member of the projects
-   - "Study of Detector, Phenomenology and Data Analysis at CERN-ATLAS Experiment"
-   - "Turkish Accelerator Center (TAC) Technical Design and Test Laboratories"
+ - member of
+   - Project Management Association, Ankara
+   - PMI-TR, Istanbul: A local chapter of Project Management Institute (PMI)
+   - "Study of Detector, Phenomenology and Data Analysis at CERN-ATLAS Experiment" project
+   - "Turkish Accelerator Center (TAC) Technical Design and Test Laboratories" project
  - supported by
-   - Turkish Atomic Energy Agency (TAEK) via the project for research studies at CERN
-   - State Planning Organization via the project for research studies at DESY in Germany & for CERN School of Computing held in Norway
+   - Turkish Atomic Energy Agency (TAEK) via the project for research studies at CERN in Switzerland
+   - State Planning Organization via the project for
+     - research studies at DESY Lab. in Germany
+     - CERN School of Computing held in Norway
+ - earned my first pocket money to attend a paid seminar by writing an inventory management software for a local warehouse
 
 
-## Attended
-- countless seminars on
-  - Project Management
-  - TAC Technical Design And Test Facility
-  - TR-Grid And Tools, TR-ATLAS Tier-2 Grid Deployment, CMS/ ATLAS Computing and Analysis
+## My relation with universities are
+- Master's degree in High Energy Physics from Dumlupinar Uni.
+- Bachelor's degree in Physics from Dumlupinar Uni.
+- took lessons from PhD programs (but couldn't manage to finish)
+  - Digital Signal Processors, Linear Control Systems from Yildiz Technical Uni.
+  - Optoelectronics from Ankara Uni.
 
 
-## Gave presentations on
-- "Towards Data Analysis at CERN-ATLAS Experiment" at my university (Dumlupinar University) during my master's studies
+## I gave presentations on
+- "Towards Data Analysis at CERN-ATLAS Experiment" at Dumlupinar Uni. during my master's studies
+- "The Status and Plans on Control System of TARLA" at 4th Int'l Machine Advisory Committee of TAC Project
+- "General Overview of The TAC Project" at DESY Lab.
+- "Preparation Work with LabVIEW as TAC Control System" at TAC Workshop
 - "Simulation of Optical Cavity Structure for Turkish Accelerator Center, Infrared Free Electron Laser" at 8th TAC Workshop
 - "Usage of LabVIEW for Turkish Accelerator Center, Infrared Free Electron Laser" at 5th TAC Workshop
 - "Production of ttbar at CERN, LHC Experiment with PYTHIA and CompHEP" at 3rd Workshop on Nuclear Structure Properties
