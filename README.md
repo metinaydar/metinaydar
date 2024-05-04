@@ -1,10 +1,9 @@
 ### Hi there 👋🏻👨🏻‍💻
 
 ## I'm currently
-- working as a Product Data Analyst for a UK based FT1000 fintech; Monese.
 - doing
-  - Business Analysis
-  - Data Analytics, Exploratory Data Analysis (EDA), Data Wrangling
+  - Data Mining and ML Models
+  - Exploratory Data Analysis (EDA), Data Wrangling, Feature Engineering
   - AB Testing, Regulatory Reporting
 - using
   - SQL, Tableau
