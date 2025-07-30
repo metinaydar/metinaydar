@@ -2,8 +2,7 @@
 
 ## Data Scientist | AWS Certified ML Engineer | ex-CERN | MSc Physics
 
-🔗 [linkedin.com/in/metin-aydar-ds](https://www.linkedin.com/in/metin-aydar-ds) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
-🏆 [credly.com/users/maydar](https://credly.com/users/maydar) | 💻 [github.com/metinaydar](github.com/metinaydar)
+🔗 [LinkedIn](https://www.linkedin.com/in/metin-aydar-ds) | 🏆 [Credly](https://credly.com/users/maydar) | 💻 [GitHub](github.com/metinaydar) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
 
 ---
 
@@ -218,7 +217,7 @@ product_analyst_monese:
 
 previous_experience_in_turkey:
   pcp: ["Senior Business Analyst", "Azimech Bilisim ve Yazilim", "Jan 2018 - Aug 2019"]
-    - kc: "Created OSH event prediction model and led requirement analysis of online payment integration on MS Azure"
+    - kc: "Created OSH event prediction model and led requirement analysis of online payment integration on Azure"
   pcp: ["Senior Business Analyst", "Infoline Bilgi Teknolojileri", "Jul 2015 - Mar 2017"]
     - kc: "Gathered requirements for geospatial mobile app development in agriculture, scaling up to 600k end users"
   pcp: ["Business Process Analyst", "Turkish Medicines and Medical Devices Agency", "Jul 2014 - Jul 2015"]
@@ -235,7 +234,7 @@ linux_system_administrator_cern:
   company: "CERN Laboratory"
   period: "Jan 2009 - Sep 2009"
   location: "Switzerland"
-  key_contribution: "Maintained critical computing infra. supporting international particle physics research experiments"
+  key_contribution: "Maintained critical computing infrastucture supporting int'l particle physics research experiments"
 ```
 
 ---
