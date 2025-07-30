@@ -150,8 +150,9 @@ project_management = ["Jira", "Confluence", "Trello", "Slack", "Miro", "Figma", 
 ---
 
 ```json
-{
-  "collaborative_achievements": {
+{ "____": "Collaborative Achievements",
+  "list": {
+
     "aws_stockholm_hackathon": {
       "rank": "2nd Place",
       "event": "AWS Stockholm Disaster Resilience Hackathon",
@@ -167,6 +168,7 @@ project_management = ["Jira", "Confluence", "Trello", "Slack", "Miro", "Figma", 
         "Community coordination"
       ]
     },
+
     "google_cloud_hackathon": {
       "rank": "3rd Place", 
       "event": "Google Cloud AI Hackathon",
@@ -284,7 +286,7 @@ linux_system_administrator_cern:
 ---
 
 ```sql
--- Education
+-- Education & Certifications
 
 SELECT 
     'Master of Science in Physics' as degree,
@@ -344,6 +346,7 @@ echo "- International research collaboration and knowledge transfer"
 
 ```javascript
 // Languages & Cultural Adaptability
+
 const languages = {
   english: {
     level: "Fluent",
@@ -389,6 +392,7 @@ international experience, technical expertise, and collaborative approach can ad
 ## Data Scientist | AWS Certified ML Engineer | ex-CERN | MSc Physics
 🔗 [LinkedIn](https://www.linkedin.com/in/metin-aydar-ds) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
 🏆 [Credly](https://credly.com/users/maydar) | 💻 [GitHub](https://github.com/metinaydar)
+
 ---
 
 /* Last updated: July 2025 | Actively engaging with Stockholm tech community */
