@@ -10,7 +10,7 @@
 # Professional Summary
 
 role: "Collaborative Data Scientist"
-experience: "15+ years"
+experience: "15+ years with master's degree"
 focus: 
   - Supporting teams in developing software products
   - Extracting insights from complex datasets
@@ -22,7 +22,6 @@ motivation: "Join Sweden's dynamic tech community and contribute analytical expe
 ---
 
 ```bash
-#!/bin/bash
 # Current Focus & Availability
 
 echo "🚀 SEEKING OPPORTUNITIES:"
@@ -52,24 +51,29 @@ echo "📍 STATUS: Available for immediate start | Stockholm, Sweden"
 # Value Proposition for Swedish Tech Market
 
 international_experience:
-  cern_background: "Multinational collaboration on large-scale research"
   eu_fintech: "5+ years regulatory compliance experience"
-  cultural_adaptation: "Successfully integrated in Estonia tech ecosystem, B1 in Estonian"
-
-technical_strengths:
-  production_ml: "Deployment with measurable business impact (91% accuracy)"
-  cloud_certified: "AWS ML Engineer with hands-on architecture experience"
-  full_stack: "React Native, Node.js, TypeScript development capabilities"
+  cultural_adaptation: "Integrated in tech ecosystem and got B1 in Estonian"
+  cern_background: "Multinational collaboration on large-scale research"
 
 cultural_fit:
   collaboration: "Team-focused achievements and cross-functional work"
   swedish_values: "Aligned with collaborative workplace culture"
   community_engagement: "Active in Stockholm tech community since relocation"
 
+technical_strengths:
+  production_ml: "Deployment with measurable business impact (91% accuracy)"
+  cloud_certified: "AWS ML Engineer with hands-on architecture experience"
+  full_stack: "React Native, Node.js, TypeScript development capabilities (hackathons)"
+
 business_impact:
   regulatory_compliance: "Connected technical solutions to EU compliance"
   fraud_detection: "Supported 91% accuracy fraud detection system"
   process_improvement: "Contributed to reduction in manual processes"
+
+volunteer_involvement:
+  latitude59_operations: "Operations Team Member at Latitude59 (May 2023) - Estonia's flagship tech conference"
+  startup_day_seminars: "Seminars Team Member at sTARTUp Day (Aug 2021) - Supporting startup ecosystem development"
+  latitude59_moderations: "Online Sessions Moderator at Latitude59 (Aug 2020) - Spreading ideas and know-how online"
 ```
 
 ---
@@ -145,6 +149,45 @@ project_management = ["Jira", "Confluence", "Trello", "Slack", "Miro", "Figma", 
 
 ---
 
+```json
+{
+  "collaborative_achievements": {
+    "aws_stockholm_hackathon": {
+      "rank": "2nd Place",
+      "event": "AWS Stockholm Disaster Resilience Hackathon",
+      "year": 2025,
+      "contribution": "Team member in 7-person group",
+      "solution": "Mobile-first disaster response system",
+      "tech_stack": [
+        "React Native", "Expo", "Couchbase", "TypeScript"
+      ],
+      "features": [
+        "Cross-platform app with local and remote database sync",
+        "Real-time data processing",
+        "Community coordination"
+      ]
+    },
+    "google_cloud_hackathon": {
+      "rank": "3rd Place", 
+      "event": "Google Cloud AI Hackathon",
+      "description": "Sweden's largest AI hackathon",
+      "year": 2025,
+      "team_size": 5,
+      "track": "Solar Energy",
+      "tech_stack": [
+        "Google Cloud Platform", "Firebase Studio", "Claude for MCP", "Weather and energy market APIs"
+      ],
+      "focus": "Energy independence and sustainability for homeowners",
+      "partners": [
+        "Sourceful Energy", "rebase.energy", "Ellevio", "ENTSO-E"
+      ]
+    }
+  }
+}
+```
+
+---
+
 ```yaml
 # Professional Experience
 
@@ -152,7 +195,7 @@ career_transition:
   period: "May 2025 - Aug 2025"
   location: "Stockholm, Sweden"
   activities:
-    relocation: "Moved to Stockholm for Nordic fintech/AI sector advancement"
+    relocation: "Moved to Stockholm for fin-tech sector and AI advancement"
     community_engagement: "Swedish tech community through hackathons and meetups"
     networking: "Getting integrated into local professional networks"
     language_learning: "Swedish language basics"
@@ -215,7 +258,8 @@ product_analyst_monese:
       courses: "Spatial data science"
       providers: ["Esri", "ESA", "University of Luxembourg"]
 
-previous_experience_in_turkey:
+# pcp: position, company, period | kc: key_contribution
+previous_experience_in_Turkey:
   pcp: ["Senior Business Analyst", "Azimech Bilisim ve Yazilim", "Jan 2018 - Aug 2019"]
     - kc: "Created OSH event prediction model and led requirement analysis of online payment integration on Azure"
   pcp: ["Senior Business Analyst", "Infoline Bilgi Teknolojileri", "Jul 2015 - Mar 2017"]
@@ -235,45 +279,6 @@ linux_system_administrator_cern:
   period: "Jan 2009 - Sep 2009"
   location: "Switzerland"
   key_contribution: "Maintained critical computing infra supporting int'l particle physics research experiments"
-```
-
----
-
-```json
-{
-  "collaborative_achievements": {
-    "aws_stockholm_hackathon": {
-      "rank": "2nd Place",
-      "event": "AWS Stockholm Disaster Resilience Hackathon",
-      "year": 2025,
-      "contribution": "Team member in 7-person group",
-      "solution": "Mobile-first disaster response system",
-      "tech_stack": [
-        "React Native", "Expo", "Couchbase", "TypeScript"
-      ],
-      "features": [
-        "Cross-platform app with local and remote database sync",
-        "Real-time data processing",
-        "Community coordination"
-      ]
-    },
-    "google_cloud_hackathon": {
-      "rank": "3rd Place", 
-      "event": "Google Cloud AI Hackathon",
-      "description": "Sweden's largest AI hackathon",
-      "year": 2025,
-      "team_size": 5,
-      "track": "Solar Energy",
-      "tech_stack": [
-        "Google Cloud Platform", "Firebase Studio", "Claude for MCP", "Weather and energy market APIs"
-      ],
-      "focus": "Energy independence and sustainability for homeowners",
-      "partners": [
-        "Sourceful Energy", "rebase.energy", "Ellevio", "ENTSO-E"
-      ]
-    }
-  }
-}
 ```
 
 ---
@@ -303,22 +308,36 @@ INSERT INTO  certifications VALUES
 ---
 
 ```bash
-# Research & CERN Experience | 2008-2014
+# Research, CERN and DESY Experiences | 2007-2014
 
-cd /cern/atlas/experiment
+# ATLAS Experiment and data analysis on subatomic particles using Python
+cd /cern/experiment/atlas
 ./collaborate_international_teams.sh
-
-# Data analysis on subatomic particles using Python
 python analyze_subatomic_data.py --particles=quarks --detector=atlas
 
-# Publications
-echo "Co-authored research:"
-echo "- Turkish Accelerator Center Project (DESY)"
-echo "- 4th Family Quarks observations (INSPIRE)"
+# DESY Collaboration via Turkish Accelerator Complex Project
+cd /desy/accelerator_physics
+./collaborate_inter-universities_teams.sh
+python build_fiberoptic_control_system.py --light_source=accelerator --facility=Turkey
+
+# Publications & Research Output
+echo "Co-authored research and presentations:"
+echo "- Overview of the Turkish Accelerator Center Project (DESY)"
+echo "- Observing 4th Family Quarks at CERN ATLAS (INSPIRE)"
 
 # International collaboration
-git log --author="multinational_research_teams" --since="2008" --until="2014"
+git log --author="multinational_research_teams" --since="2007" --until="2014"
 # Worked with researchers from 50+ countries on large-scale physics experiments
+# CERN ATLAS detector phenomenology and data analysis studies
+# TAEK (Turkish Atomic Energy Agency) funded research projects
+# DPT (State Planning Organization of Turkey) funded research projects
+
+# Technical Contributions
+echo "Research Focus Areas:"
+echo "- Particle physics detector simulations and data analysis"
+echo "- Monte Carlo methods for high-energy physics"
+echo "- Statistical analysis of large-scale experimental data"
+echo "- International research collaboration and knowledge transfer"
 ```
 
 ---
