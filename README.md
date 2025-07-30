@@ -2,7 +2,7 @@
 
 ## Data Scientist | AWS Certified ML Engineer | ex-CERN | MSc Physics
 
-🔗 [LinkedIn](https://www.linkedin.com/in/metin-aydar-ds) | 🏆 [Credly](https://credly.com/users/maydar) | 💻 [GitHub](github.com/metinaydar) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
+🔗 [LinkedIn](https://www.linkedin.com/in/metin-aydar-ds) | 🏆 [Credly](https://credly.com/users/maydar) | 💻 [GitHub](https://github.com/metinaydar) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
 
 ---
 
@@ -234,7 +234,7 @@ linux_system_administrator_cern:
   company: "CERN Laboratory"
   period: "Jan 2009 - Sep 2009"
   location: "Switzerland"
-  key_contribution: "Maintained critical computing infrastucture supporting int'l particle physics research experiments"
+  key_contribution: "Maintained critical computing infra supporting int'l particle physics research experiments"
 ```
 
 ---
@@ -369,7 +369,7 @@ international experience, technical expertise, and collaborative approach can ad
 # Metin Aydar
 ## Data Scientist | AWS Certified ML Engineer | ex-CERN | MSc Physics
 🔗 [LinkedIn](https://www.linkedin.com/in/metin-aydar-ds) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
-🏆 [Credly](https://credly.com/users/maydar) | 💻 [GitHub](github.com/metinaydar)
+🏆 [Credly](https://credly.com/users/maydar) | 💻 [GitHub](https://github.com/metinaydar)
 ---
 
 /* Last updated: July 2025 | Actively engaging with Stockholm tech community */
