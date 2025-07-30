@@ -12,9 +12,9 @@
 role: "Collaborative Data Scientist"
 experience: "15+ years with master's degree"
 focus: 
-  - Supporting teams in developing software products
   - Extracting insights from complex datasets
   - Contributing to innovative tech solutions
+  - Supporting teams in developing software products
 location: "Recently relocated to Stockholm"
 motivation: "Join Sweden's dynamic tech community and contribute analytical expertise"
 ```
@@ -43,6 +43,47 @@ for interest in "${interests[@]}"; do
 done
 
 echo "📍 STATUS: Available for immediate start | Stockholm, Sweden"
+```
+
+---
+
+```json
+{ "____": "Collaborative Achievements",
+  "list": {
+
+    "aws_stockholm_hackathon": {
+      "rank": "2nd Place",
+      "event": "AWS Stockholm Disaster Resilience Hackathon",
+      "year": 2025,
+      "contribution": "Team member in 7-person group",
+      "solution": "Mobile-first disaster response system",
+      "tech_stack": [
+        "React Native", "Expo", "Couchbase", "TypeScript"
+      ],
+      "features": [
+        "Cross-platform app with local and remote database sync",
+        "Real-time data processing",
+        "Community coordination"
+      ]
+    },
+
+    "google_cloud_hackathon": {
+      "rank": "3rd Place", 
+      "event": "Google Cloud AI Hackathon",
+      "description": "Sweden's largest AI hackathon",
+      "year": 2025,
+      "team_size": 5,
+      "track": "Solar Energy",
+      "tech_stack": [
+        "Google Cloud Platform", "Firebase Studio", "Claude for MCP", "Weather and energy market APIs"
+      ],
+      "focus": "Energy independence and sustainability for homeowners",
+      "partners": [
+        "Sourceful Energy", "rebase.energy", "Ellevio", "ENTSO-E"
+      ]
+    }
+  }
+}
 ```
 
 ---
@@ -149,47 +190,6 @@ project_management = ["Jira", "Confluence", "Trello", "Slack", "Miro", "Figma", 
 
 ---
 
-```json
-{ "____": "Collaborative Achievements",
-  "list": {
-
-    "aws_stockholm_hackathon": {
-      "rank": "2nd Place",
-      "event": "AWS Stockholm Disaster Resilience Hackathon",
-      "year": 2025,
-      "contribution": "Team member in 7-person group",
-      "solution": "Mobile-first disaster response system",
-      "tech_stack": [
-        "React Native", "Expo", "Couchbase", "TypeScript"
-      ],
-      "features": [
-        "Cross-platform app with local and remote database sync",
-        "Real-time data processing",
-        "Community coordination"
-      ]
-    },
-
-    "google_cloud_hackathon": {
-      "rank": "3rd Place", 
-      "event": "Google Cloud AI Hackathon",
-      "description": "Sweden's largest AI hackathon",
-      "year": 2025,
-      "team_size": 5,
-      "track": "Solar Energy",
-      "tech_stack": [
-        "Google Cloud Platform", "Firebase Studio", "Claude for MCP", "Weather and energy market APIs"
-      ],
-      "focus": "Energy independence and sustainability for homeowners",
-      "partners": [
-        "Sourceful Energy", "rebase.energy", "Ellevio", "ENTSO-E"
-      ]
-    }
-  }
-}
-```
-
----
-
 ```yaml
 # Professional Experience
 
@@ -286,15 +286,7 @@ linux_system_administrator_cern:
 ---
 
 ```sql
--- Education & Certifications
-
-SELECT 
-    'Master of Science in Physics' as degree,
-    'Dumlupinar University' as institution,
-    '2007-2011' as period,
-    'Simulation of free electron lasers via MATLAB' as focus,
-    'CERN big-data analysis via Python' as experience,
-    'International grants and scholarships' as achievements;
+-- Certifications & Education
 
 -- Key Certifications
 CREATE TABLE certifications ( cert_name VARCHAR(100), provider VARCHAR(50), status VARCHAR(20) );
@@ -305,6 +297,14 @@ INSERT INTO  certifications VALUES
     ('Scrum Fundamentals Certified', 'SCRUMstudy', 'Active'),
     ('IBM Quantum Challenge - Advanced', 'IBM', 'Achievement'),
     ('CERN School of Computing', 'CERN', 'Completed');
+
+SELECT 
+    'Master of Science in Physics' as degree,
+    'Dumlupinar University' as institution,
+    '2007-2011' as period,
+    'Simulation of free electron lasers via MATLAB' as focus,
+    'CERN big-data analysis via Python' as experience,
+    'International grants and scholarships' as achievements;
 ```
 
 ---
