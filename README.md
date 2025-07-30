@@ -1,11 +1,9 @@
-```markdown
 # Metin Aydar
 
 ## Data Scientist | AWS Certified ML Engineer | ex-CERN | MSc Physics
 
-🔗 [LinkedIn](https://www.linkedin.com/in/metin-aydar-ds) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
-🏆 [Credly](https://credly.com/users/maydar) | 💻 [GitHub](github.com/metinaydar)
-```
+🔗 [linkedin.com/in/metin-aydar-ds](https://www.linkedin.com/in/metin-aydar-ds) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
+🏆 [credly.com/users/maydar](https://credly.com/users/maydar) | 💻 [github.com/metinaydar](github.com/metinaydar)
 
 ---
 
@@ -220,9 +218,9 @@ product_analyst_monese:
 
 previous_experience_in_turkey:
   pcp: ["Senior Business Analyst", "Azimech Bilisim ve Yazilim", "Jan 2018 - Aug 2019"]
-    - kc: "Created OSH event prediction model and led requirement analysis for online payment integration on Microsoft Azure"
+    - kc: "Created OSH event prediction model and led requirement analysis of online payment integration on MS Azure"
   pcp: ["Senior Business Analyst", "Infoline Bilgi Teknolojileri", "Jul 2015 - Mar 2017"]
-    - kc: "Gathered requirements for geospatial mobile app development for agriculture with scaling capability to 600k end users"
+    - kc: "Gathered requirements for geospatial mobile app development in agriculture, scaling up to 600k end users"
   pcp: ["Business Process Analyst", "Turkish Medicines and Medical Devices Agency", "Jul 2014 - Jul 2015"]
     - kc: "Analyzed and optimized regulatory compliance processes for pharmaceutical industry oversight"
   pcp: ["Project Expert", "Ankara University",  "Mar 2012 - Feb 2013"]
@@ -369,6 +367,10 @@ international experience, technical expertise, and collaborative approach can ad
 
 **Available for immediate start** | Stockholm, Sweden | EU Work Authorization
 
+# Metin Aydar
+## Data Scientist | AWS Certified ML Engineer | ex-CERN | MSc Physics
+🔗 [LinkedIn](https://www.linkedin.com/in/metin-aydar-ds) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
+🏆 [Credly](https://credly.com/users/maydar) | 💻 [GitHub](github.com/metinaydar)
 ---
 
 /* Last updated: July 2025 | Actively engaging with Stockholm tech community */
