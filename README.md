@@ -3,7 +3,8 @@
 
 ## Data Scientist | AWS Certified ML Engineer | ex-CERN | MSc Physics
 
-🔗 [linkedin.com/in/metin-aydar-ds](https://www.linkedin.com/in/metin-aydar-ds) | [credly.com/users/maydar](https://credly.com/users/maydar) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
+🔗 [LinkedIn](https://www.linkedin.com/in/metin-aydar-ds) | 🇪🇺 EU Work Authorization | 📍 Stockholm, Sweden
+🏆 [Credly](https://credly.com/users/maydar) | 💻 [GitHub](github.com/metinaydar)
 ```
 
 ---
@@ -219,24 +220,24 @@ product_analyst_monese:
 
 previous_experience_in_turkey:
   pcp: ["Senior Business Analyst", "Azimech Bilisim ve Yazilim", "Jan 2018 - Aug 2019"]
-    - key_contribution: "Created OSH event prediction model and led requirement analysis for online payment integration on Microsoft Azure"
+    - kc: "Created OSH event prediction model and led requirement analysis for online payment integration on Microsoft Azure"
   pcp: ["Senior Business Analyst", "Infoline Bilgi Teknolojileri", "Jul 2015 - Mar 2017"]
-    - key_contribution: "Gathered requirements for geospatial mobile app development for agriculture with scaling capability to 600k end users"
+    - kc: "Gathered requirements for geospatial mobile app development for agriculture with scaling capability to 600k end users"
   pcp: ["Business Process Analyst", "Turkish Medicines and Medical Devices Agency", "Jul 2014 - Jul 2015"]
-    - key_contribution: "Analyzed and optimized regulatory compliance processes for pharmaceutical industry oversight"
+    - kc: "Analyzed and optimized regulatory compliance processes for pharmaceutical industry oversight"
   pcp: ["Project Expert", "Ankara University",  "Mar 2012 - Feb 2013"]
-    - key_contribution: "Participated in research project coordination and technical documentation for academic initiatives"
+    - kc: "Participated in research project coordination and technical documentation for academic initiatives"
   pcp: ["Software Development Project Manager", "Pleksus Informatics Technology", "Sep 2010 - Dec 2011"]
-    - key_contribution: "Led cross-functional teams in software development lifecycle and project delivery management"
+    - kc: "Led cross-functional teams in software development lifecycle and project delivery management"
   pcp: ["Software Developer", "Key Yazilim | Bilisim & Inovasyon", "Sep 2009 - Sep 2010"]
-    - key_contribution: "Developed enterprise software solutions using modern-of-the-day programming frameworks and methodologies"
+    - kc: "Developed enterprise software solutions using modern-of-the-day programming frameworks and methodologies"
 
 linux_system_administrator_cern:
   position: "Linux System Administrator"
   company: "CERN Laboratory"
   period: "Jan 2009 - Sep 2009"
   location: "Switzerland"
-  key_contribution: "Maintained critical computing infrastructure supporting international particle physics research experiments"
+  key_contribution: "Maintained critical computing infra. supporting international particle physics research experiments"
 ```
 
 ---
@@ -350,7 +351,8 @@ const culturalAdaptability = {
   international: true,
   crossCultural: ["Turkey", "Estonia", "Sweden", "CERN (multinational)"],
   workStyles: [
-    "Nordic collaborative approach", "Baltic pivoting and start-up mindset", "EU regulatory environment - GDPR, DORA", "Turkish solution-oriented approach"
+    "Nordic collaborative approach", "Baltic pivoting and start-up mindset", 
+    "EU regulatory environment - GDPR, DORA", "Turkish solution-oriented approach"
   ]
 };
 ```
